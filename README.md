@@ -24,12 +24,17 @@
 
 ### 👋 **こんにちは、tanimoto1996です！**
 
-🚀 **フルスタックWeb開発者** として、UI/UXが良い、Webアプリケーションを開発しています
+🚀 **フルスタックWeb開発者** 様々な技術を学び、楽しく開発をしています。
+
 🌍 **Location:** 日本 🇯🇵  
-💼 **Focus:** ユーザーにとって価値のあるWebアプリケーション開発 
-☕ **Fuel:** コーヒー、ゲーム  
+
+💼 **Focus:** ユーザーにとって価値のあるWebアプリケーション開発
+
+☕ **Fuel:** コーヒー、アニメ、ゲーム  
+
 🎯 **Goal:** 技術を通じてより良いユーザー体験を提供し続けること
-📚 **Philosophy:** 毎月2冊以上本を読み、継続的な学習と成長を大切にしています
+
+📚 **Philosophy:** 毎月2冊以上本を読み、継続的な学習と成長を大切にしています。
 
 
 </td>
@@ -66,9 +71,3 @@
 </td>
 </tr>
 </table>
-
-## 🏆 **GitHubトロフィー (コミット)**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
-</div>
