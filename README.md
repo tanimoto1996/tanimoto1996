@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=こんにちは！私はtanimoto1996です+%F0%9F%91%8B;Web+Developer+%F0%9F%9A%80;フルスタック開発者+%E2%9C%A8;常に新しいことを学んでいます+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=こんにちは！私はtanimoto1996です+%F0%9F%91%8B;Web+Developer+%F0%9F%9A%80;フルスタックに開発者しています+%E2%9C%A8;常に新しいことを学んでいます+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 ## 🌟 **私について**
