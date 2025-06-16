@@ -36,7 +36,6 @@
 
 📚 **Philosophy:** 毎月2冊以上本を読み、継続的な学習と成長を大切にしています。
 
-
 </td>
 </tr>
 </table>
@@ -49,24 +48,42 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 💻  **言語とフレームワーク**
-<img src="https://skillicons.dev/icons?i=php,js,ts,vue,html,css" />
-
-### 🌐  **SaaS**
+### 💻 **プログラミング言語**
 <div align="center">
-
-**💳 Stripe** | **🔐 Auth0**
-
+<img src="https://skillicons.dev/icons?i=php,js,ts,html,css" />
 </div>
 
-### 🔧  **開発ツール**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+### 🚀 **フレームワーク**
+<div align="center">
+<img src="https://skillicons.dev/icons?i=laravel,vue" />
+<br>
+<strong>Laravel | Vue.js | CakePHP</strong>
+</div>
+
+### 🔧 **開発ツール**
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker" />
+</div>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🗄️  **データベース**
+### 🗄️ **データベース**
+<div align="center">
 <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+</div>
+
+### 🐳 **インフラ・仮想環境**
+<div align="center">
+<img src="https://skillicons.dev/icons?i=docker,aws" />
+</div>
+
+### 🌐 **SaaS & 外部サービス**
+<div align="center">
+
+**💳 Stripe** | **🔐 Auth0** | **☁️ Cloud Services**
+
+</div>
 
 </td>
 </tr>
