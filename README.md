@@ -57,6 +57,8 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=laravel,vue" />
 <br>
+<img src="https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white" alt="CakePHP" />
+<br>
 <strong>Laravel | Vue.js | CakePHP</strong>
 </div>
 
